@@ -1,0 +1,8 @@
+public class WallFlower extends Flower{
+  public WallFlower(){
+    super("");
+  }
+  public String tostring(){
+    return "Wallflower:Talk to me for some interesting information.";
+  }
+}

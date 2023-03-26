@@ -1,0 +1,10 @@
+public class CarvedFlower extends Flower{
+  private double price;
+  private String material;
+  public CarvedFlower(String instruction , String material , double perUnitPrice){
+    
+  }
+  public toString(){
+    return;
+  }
+}

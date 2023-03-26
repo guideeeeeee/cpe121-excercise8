@@ -1,0 +1,8 @@
+public class ex8_3{
+  public static void main (String[]args){
+    Duck d = new Duck();
+    d.fly();
+    Plane p = new Plane();
+    p.fly();
+  }
+}

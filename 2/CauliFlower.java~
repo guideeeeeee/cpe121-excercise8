@@ -1,0 +1,9 @@
+public class CauliFlower{
+  private double price;
+  public CauliFlower(String instruction, double perKgPrice){
+    
+  }
+  public String toString(){
+    
+  }
+}
